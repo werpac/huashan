@@ -4,3 +4,4 @@
 edit by linghuchong.
 new line to test merge wheather necessary to add.
 new line in linghuchong's master branch.
+edit by linghuchong's hot_fix branch.
