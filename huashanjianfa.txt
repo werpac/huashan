@@ -1,6 +1,0 @@
-华山剑法，天下第一！
-我是令狐冲。
-令狐冲：我加一行，push，岳不群测试pull。
-edit by ybq.
-edit by linghuchong.
-new branch's new line to test merge if necessary to add.
