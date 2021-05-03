@@ -1,3 +1,4 @@
 华山剑法，天下第一！
 我是令狐冲。
-new line in lhc, later push, to solve conflict.
+this line and the next line are to test push conflict, ybq push first, 
+lhc push later,so conflict, so lhc should pull,slove conflict and then push. 
