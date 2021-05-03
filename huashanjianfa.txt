@@ -3,3 +3,4 @@
 令狐冲：我加一行，push，岳不群测试pull。
 edit by linghuchong.
 new line to test merge wheather necessary to add.
+edit by linghuchong's hot_fix branch.
